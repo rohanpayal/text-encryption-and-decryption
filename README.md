@@ -1,1 +1,1 @@
-# text-encryption-and-decryption
+Encrypting and decrypting text is a fundamental process in the field of cryptography, the study of techniques to protect communications in the presence of an adversary. These processes ensure that information sent over the network and stored on your device remains confidential and protected from unauthorized access.
